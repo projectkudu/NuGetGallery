@@ -22,5 +22,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("2.13.0805")]
 [assembly: AssemblyInformationalVersion("2.13.0805-alpha")]
 
-[assembly: AssemblyMetadata("Branch", "dev")]
-[assembly: AssemblyMetadata("CommitId", "077b46fa093ab839d3f92be0863bf6ebc0cba9a3")]
+[assembly: AssemblyMetadata("Branch", "master")]
+[assembly: AssemblyMetadata("CommitId", "73a61861d1e7fbf7fdfed70f3ecf3d39b65daeeb")]
