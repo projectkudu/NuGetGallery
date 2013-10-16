@@ -1048,6 +1048,7 @@
     <Content Include="Content\Images\treeview\treeview-red-line.gif" />
     <Content Include="Content\Images\treeview\treeview-red.gif" />
     <Content Include="Content\Images\uploadPackage.png" />
+    <Content Include="Content\Images\Websites.png" />
     <Content Include="Content\Images\YourPackage.png" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\Images\download.png" />
