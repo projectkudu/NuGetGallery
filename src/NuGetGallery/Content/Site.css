@@ -224,17 +224,28 @@ nav, section {
 #logo {
     float: left;
     padding: 20px 20px 0 0;
+    width: 500px;
 }
 
 #logo a {
-    background: url(../Content/Images/nugetlogo.png) no-repeat;
+    background: url(../Content/Images/Websites.png) no-repeat ;
+    background-position: -40px;
     display: block;
     height: 75px;
     margin: 0;
     padding: 0;
     text-indent: -9999px;
-    width: 345px;
+    
+    float: left;
 }
+
+    #logo span {
+        float: left;
+        top: 22px;
+        position: relative;
+        font-size: x-large;
+        color: white;
+    }
 
 /* User Info */
 
